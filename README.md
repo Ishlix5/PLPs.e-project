@@ -1,2 +1,2 @@
 # PLPs.e-project
-this is my first plp repository
+this is my first plp repository project
